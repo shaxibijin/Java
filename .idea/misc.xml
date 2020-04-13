@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../chuanzhi_health-master/health_backend" />
+    <file type="web" url="file://$PROJECT_DIR$/../chuanzhi_health-master/health_jobs" />
+    <file type="web" url="file://$PROJECT_DIR$/../chuanzhi_health-master/health_mobile" />
+    <file type="web" url="file://$PROJECT_DIR$/../chuanzhi_health-master/health_service_provider" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../chuanzhi_health-master/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../chuanzhi_health-master/health_backend/pom.xml" />
+        <option value="$PROJECT_DIR$/../chuanzhi_health-master/health_common/pom.xml" />
+        <option value="$PROJECT_DIR$/../chuanzhi_health-master/health_interface/pom.xml" />
+        <option value="$PROJECT_DIR$/../chuanzhi_health-master/health_jobs/pom.xml" />
+        <option value="$PROJECT_DIR$/../chuanzhi_health-master/health_mobile/pom.xml" />
+        <option value="$PROJECT_DIR$/../chuanzhi_health-master/health_service_provider/pom.xml" />
+        <option value="$PROJECT_DIR$/../chuanzhi_health-master/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="false" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
