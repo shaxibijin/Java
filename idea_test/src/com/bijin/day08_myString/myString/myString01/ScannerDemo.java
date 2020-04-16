@@ -1,4 +1,4 @@
-package com.bijin.day08_myString;
+package com.bijin.day08_myString.myString.myString01;
 
 import java.util.Scanner;
 

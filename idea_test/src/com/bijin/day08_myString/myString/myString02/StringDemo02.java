@@ -1,4 +1,4 @@
-package com.bijin.day08_myString.myString02;
+package com.bijin.day08_myString.myString.myString02;
 
 /*
     使用 == 做比较：
